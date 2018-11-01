@@ -1,0 +1,22 @@
+{
+  "name": "ZPNavationBar",
+  "version": "0.1.0",
+  "summary": "A short description of ZPNavationBar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cctvbtv123456/ZPNavationBar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cctvbtv123456": "wangzhipeng@qinxue100.com"
+  },
+  "source": {
+    "git": "https://github.com/cctvbtv123456/ZPNavationBar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPNavationBar/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ZPNavationBar {
+  umbrella header "ZPNavationBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
